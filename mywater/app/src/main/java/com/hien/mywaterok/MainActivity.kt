@@ -14,6 +14,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.core.content.ContextCompat
+import androidx.lifecycle.viewmodel.compose.viewMod
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.hien.mywaterok.ui.screen.PlantListScreen
 import com.hien.mywaterok.viewmodel.WaterViewModel
